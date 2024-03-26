@@ -1,1 +1,5 @@
-"null"
+- Pequenas melhorias
+- Instalação mais rapida
+- Bootanimation reajustada para a tela de 1080 x 2400 do Moto g52
+- Correção de bug na inicialização
+- O arquivo ficou mais leve, conteúdo desnecessário removido
